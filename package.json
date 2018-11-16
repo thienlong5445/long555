@@ -1,0 +1,22 @@
+{
+  "name": "long555",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thienlong5445/long555.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thienlong5445/long555/issues"
+  },
+  "homepage": "https://github.com/thienlong5445/long555#readme",
+  "dependencies": {
+    "sass": "^1.15.0"
+  }
+}
